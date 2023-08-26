@@ -1,2 +1,2 @@
 # Información
-Esta caroeta contiene el producto final de la aplicacion
+Esta carpeta contiene el producto final de la aplicacion
